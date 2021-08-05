@@ -13,4 +13,4 @@ navigation:
 
 </div>
 
-[GHPAGES]: https://github.com/Requisitos-de-Software/2020.2-Wikipedia
+[GHPAGES]: kessjhones.github.io/corte/
