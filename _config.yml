@@ -3,9 +3,9 @@ description: Requisitos de Software
 branding:
   icon:
     type: fa
-    name: fa-wikipedia-w fa-border
-  highlight: 2020.2
-  bold: Wikipedia
+    name: fa-file-text-o
+  highlight: Cortes
+  bold: Requisitos 
 markdown: kramdown
 kramdown:
   auto_ids: true
