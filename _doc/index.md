@@ -5,6 +5,7 @@ tagline:
 heading: Bem vindos!
 navigation:
   - /elicitacao
+  - /modelagem
 ---
 
 <div class="cta-container">
@@ -13,4 +14,4 @@ navigation:
 
 </div>
 
-[GHPAGES]: kessjhones.github.io/corte/
+[GHPAGES]: https://github.com/kessJhones/corte

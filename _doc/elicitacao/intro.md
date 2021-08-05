@@ -3,8 +3,6 @@ title:
 sections:
    - Introspeccao
    - Lista Completa de Requisitos Elicitados
-   - Referencias
-   - Historico de Versao
 ---
 
 ## Introspecção {#introspeccao}
@@ -32,30 +30,28 @@ RFN: Requisito Não Funcional.
 
 </div>
 
+## Lista Completa de Requisitos Elicitados
+
+
+{: .table .table-striped .table-bordered}
+| **ID do Requisito** | **Requisito** |
+|:-:|:-:|
+| RF1 | Gerenciar bobinas.
+| RF2 | Definir margens.
+| RF3 | Formatar peças.
+| RF4 | Quantificar peças.
+| RF5 | Gerar plano de corte.
+
 ##### Requisitos não Funcionais
 
 <div class="table-responsive">
 
 {: .table .table-striped .table-bordered}
 | **ID do Requisito** | **Requisito** |
-|-|-|
+|:-:|:-:|
 | RNF1 | A aplicação deve garantir a precição das médidas 
 | RNF2 | A aplicação deve garantir o controle das unidades de médidas
 | RNF3 | A aplicação deve responder com rapidez
 | RNF4 | A aplicação deve garantir a praticidade
-
-</div>
-
-## Lista Completa de Requisitos Elicitados
-
-
-## Histórico de Versão {#historico-de-versao}
-
-<div class="table-responsive">
-
-{: .table .table-striped .table-bordered}
-| Versão | Data | Modificação | Autor(es) |
-|--|--|--|--|
-| 0.1| 11/03/2021 | | |
 
 </div>
