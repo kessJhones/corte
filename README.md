@@ -1,3 +1,2 @@
-| | | |
-| --| --| --|
-|![screenshot1](/assets/images/entrega1/screenshot1.png)| ![screenshot2](/assets/images/entrega1/screenshot1.png)| ![screenshot3](/assets/images/entrega1/screenshot1.png) |
+#Levantamento de requesitos.
+  Levantamento de queresitos para uma aplicação que gera cortes de películas.
